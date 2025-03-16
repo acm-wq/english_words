@@ -1,0 +1,5 @@
+- [Weather Information](group_words/weather_info.md)
+- [Sport Information](group_words/sport_info.md)
+- [Food Information](group_words/food_info.md)
+- [Calendar Information](group_words/calendar_info.md)
+- [List animals](group_words/animals_info.md)
