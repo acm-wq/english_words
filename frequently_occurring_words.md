@@ -1,0 +1,52 @@
+- Hesitation
+- Which
+- Turning
+- Destiny
+- Unsolved
+- Duty
+- Farewell
+- Untill them
+- Handsome
+- Whatever
+- Chopsticks 🥢
+- Fill
+- While
+- Either be hanging
+- Carsick
+- Prosperous
+- Convenient
+- Except
+- During
+- Tense
+- Booze
+- Ahead
+- Laundry
+- Hourly breakdown
+- Might
+- Allegations
+- Boring
+- Forward
+- Intersection
+- Painful
+- Attention
+- Immediately
+- Announcement
+- Sudden
+- Apologize
+- Upbringing
+- Rather
+- Terrifying
+- Ragged
+- Let's be clear
+- Decided
+- Holdup
+- Crap
+- Fusion
+- Consequently
+- Impoliteness
+- Jersey
+- Surface
+- Wonder
+- Embarrassing
+- Extend
+- Exist

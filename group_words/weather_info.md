@@ -35,5 +35,5 @@
   The ground is covered with frost. It's very cold outside.
 - Humid 💧  
   The air is very moist. It feels sticky and uncomfortable.
-- Ice  
+- Ice ❄️  
   The roads are icy. Be cautious while driving.
