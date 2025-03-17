@@ -48,5 +48,22 @@
 - Surface
 - Wonder
 - Embarrassing
-- Extend
+- Extend  
+  I extend my hand.
 - Exist
+- Fraud
+- Wanna
+- Floors
+- Sentence
+- Offers
+- Missing (скучать)
+- Miss
+- Envied
+- Adults
+- Grew
+- Performances
+- Still
+- Designed
+- Same
+- Juice
+- Fruits

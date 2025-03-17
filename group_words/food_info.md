@@ -78,7 +78,7 @@
 - Avocado 🥑  
   Avocados are fruits that are high in healthy fats and fiber. They are often used in salads and sandwiches.
 
-## Other Foods
+## Other Food
 - Bread 🍞  
   Bread is a staple food made from flour and water. It comes in many varieties, including whole grain, white, and sourdough.
 - Pizza 🍕  
@@ -119,3 +119,5 @@
   Tofu is a plant-based protein made from soybeans. It can be grilled, sautéed, or used in soups and stews.
 - Tempeh 🍲  
   Tempeh is a plant-based protein made from fermented soybeans. It can be grilled, sautéed, or used in various dishes.
+- Juice 🥤  
+  Jully loves apple and lemon juice. She watches anime and drinks juice every Sunday.
