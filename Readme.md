@@ -16,8 +16,14 @@ Welcome to the English Words Project! This project provides various categories o
 - [Calendar Information](group_words/calendar_info.md)
 - [List of Animals](group_words/animals_info.md)
 - [Numbers](group_words/numbers_info.md)
+- [Academic words](group_words/academic_info.md)
 
 ## Rules
 
 - [ABC](rules/alphabet.md)
+- [the/a(an)](rules/the_or_a.md)
 - [Subject-Verb Agreement](rules/subject_verb_areement.md)
+
+## IELTS
+
+- [Academic words](group_words/academic_info.md)

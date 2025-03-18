@@ -67,3 +67,6 @@
 - Same
 - Juice
 - Fruits
+- Clearly
+- Couples
+- Apparently
