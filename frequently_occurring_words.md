@@ -56,7 +56,7 @@
 - Floors
 - Sentence
 - Offers
-- Missing (скучать)
+- Missing
 - Miss
 - Envied
 - Adults
@@ -70,3 +70,5 @@
 - Clearly
 - Couples
 - Apparently
+- Highlights
+- Confession
