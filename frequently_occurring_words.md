@@ -72,3 +72,11 @@
 - Apparently
 - Highlights
 - Confession
+- Enough
+- Plain
+- Flet
+- Usual
+- Violin
+- Stairs
+- Vulnerabilities
+- Unseated
