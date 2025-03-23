@@ -20,6 +20,7 @@ Welcome to the English Words Project! This project provides various categories o
 - [Numbers](group_words/numbers_info.md)
 - [Animals](group_words/animals_info.md)
 - [Academic words](group_words/academic_info.md)
+- [Human body](group_words/human_body.md)
 
 ## Rules
 
