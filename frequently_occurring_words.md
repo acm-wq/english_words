@@ -1,82 +1,89 @@
-- Hesitation
-- Which
-- Turning
-- Destiny
-- Unsolved
-- Duty
-- Farewell
-- Untill them
-- Handsome
-- Whatever
-- Chopsticks 🥢
-- Fill
-- While
-- Either be hanging
-- Carsick
-- Prosperous
-- Convenient
-- Except
-- During
-- Tense
-- Booze
-- Ahead
-- Laundry
-- Hourly breakdown
-- Might
-- Allegations
-- Boring
-- Forward
-- Intersection
-- Painful
-- Attention
-- Immediately
-- Announcement
-- Sudden
-- Apologize
-- Upbringing
-- Rather
-- Terrifying
-- Ragged
-- Let's be clear
-- Decided
-- Holdup
-- Crap
-- Fusion
-- Consequently
-- Impoliteness
-- Jersey
-- Surface
-- Wonder
-- Embarrassing
-- Extend  
-  I extend my hand.
-- Exist
-- Fraud
-- Wanna
-- Floors
-- Sentence
-- Offers
-- Missing
-- Miss
-- Envied
-- Adults
-- Grew
-- Performances
-- Still
-- Designed
-- Same
-- Juice
-- Fruits
-- Clearly
-- Couples
-- Apparently
-- Highlights
-- Confession
-- Enough
-- Plain
-- Flet
-- Usual
-- Violin
-- Stairs
-- Vulnerabilities
-- Unseated
+## 🟩 - I know / 🟦 - I learn / 🟥 - I don't know
+
+- 🟦 Hesitation
+  - He is cooking green pasta and hesitating a lot.
+- 🟥 Which  
+- 🟥 Turning  
+- 🟥 Destiny  
+- 🟥 Unsolved  
+- 🟩 Duty  
+- 🟦 Farewell
+  - Farewell, my dear old cat.
+- 🟦 Untill them  
+  - Until they learn the book, we need to read it.
+- 🟥 Handsome  
+- 🟥 Whatever  
+- 🟥 Chopsticks 🥢  
+- 🟥 Fill  
+- 🟩 While  
+- 🟥 Either be hanging  
+- 🟥 Carsick  
+- 🟥 Prosperous  
+- 🟥 Convenient  
+- 🟥 Except  
+- 🟥 During  
+- 🟥 Tense  
+- 🟦 Booze  
+- 🟥 Ahead  
+- 🟥 Laundry  
+- 🟥 Hourly breakdown  
+- 🟥 Might  
+- 🟥 Allegations  
+- 🟥 Boring  
+- 🟥 Forward  
+- 🟥 Intersection  
+- 🟥 Painful  
+- 🟥 Attention  
+- 🟥 Immediately  
+- 🟥 Announcement  
+- 🟥 Sudden  
+- 🟥 Apologize  
+- 🟥 Upbringing  
+- 🟥 Rather  
+- 🟥 Terrifying  
+- 🟥 Ragged  
+- 🟥 Let's be clear  
+- 🟥 Decided  
+- 🟥 Holdup  
+- 🟥 Crap  
+- 🟥 Fusion  
+- 🟥 Consequently  
+- 🟥 Impoliteness  
+- 🟥 Jersey  
+- 🟥 Surface  
+- 🟥 Wonder  
+- 🟦 Embarrassing  
+  - She is looking very embarrassed.
+- 🟩 Extend  
+  - I extend my hand.
+- 🟩 Exist  
+- 🟥 Fraud  
+- 🟦 Wanna  
+  - Do you wanna drink some soda?
+- 🟥 Floors  
+- 🟥 Sentence  
+- 🟥 Offers  
+- 🟩 Missing  
+- 🟩 Miss  
+- 🟥 Envied  
+- 🟥 Adults  
+- 🟥 Grew  
+- 🟥 Performances  
+- 🟥 Still  
+- 🟥 Designed  
+- 🟩 Same  
+- 🟩 Juice  
+- 🟥 Fruits  
+- 🟥 Clearly  
+- 🟥 Couples  
+- 🟥 Apparently  
+- 🟥 Highlights  
+- 🟥 Confession  
+- 🟥 Enough  
+- 🟥 Plain  
+- 🟥 Flet  
+- 🟥 Usual  
+- 🟥 Violin  
+- 🟥 Stairs  
+- 🟥 Vulnerabilities  
+- 🟥 Unseated  
