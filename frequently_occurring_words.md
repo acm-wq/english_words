@@ -1,15 +1,15 @@
 ## 🟩 - I know / 🟦 - I learn / 🟥 - I don't know
 
-- 🟦 Hesitation
+- 🟩 Hesitation
   - He is cooking green pasta and hesitating a lot.
 - 🟥 Which  
 - 🟥 Turning  
 - 🟥 Destiny  
 - 🟥 Unsolved  
 - 🟩 Duty  
-- 🟦 Farewell
+- 🟩 Farewell
   - Farewell, my dear old cat.
-- 🟦 Untill them  
+- 🟩 Untill them  
   - Until they learn the book, we need to read it.
 - 🟥 Handsome  
 - 🟥 Whatever  
@@ -58,9 +58,9 @@
   - I extend my hand.
 - 🟩 Exist  
 - 🟥 Fraud  
-- 🟦 Wanna  
+- 🟩 Wanna  
   - Do you wanna drink some soda?
-- 🟥 Floors  
+- 🟦 Floors  
 - 🟥 Sentence  
 - 🟥 Offers  
 - 🟩 Missing  
@@ -87,3 +87,7 @@
 - 🟥 Stairs  
 - 🟥 Vulnerabilities  
 - 🟥 Unseated  
+- 🟦 Though
+- 🟦 Direct
+- 🟩 Pose
+- 🟦 Measure
