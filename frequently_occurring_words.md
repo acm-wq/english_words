@@ -94,3 +94,8 @@
 - 🟥 Scarry
 - 🟥 Suitcase
 - 🟥 Sing
+- Choir
+- Purpose/Qoal
+- Performing on stage in front of
+- Prepared
+- Breed
