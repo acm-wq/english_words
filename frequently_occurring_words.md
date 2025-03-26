@@ -91,3 +91,6 @@
 - 🟦 Direct
 - 🟩 Pose
 - 🟦 Measure
+- 🟥 Scarry
+- 🟥 Suitcase
+- 🟥 Sing
