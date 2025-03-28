@@ -1,12 +1,34 @@
 ## Words when I'm learning
 
-- 🟦 Embarrassing
+- Consistency
+- Postpone
+- agree
+- arrive
+- catch
+- adventure
+- approach
+- carefully
+- evil
+- laugh
+- loud
+- noise
+- shout
+- smell
+- laugh
+- terrible
+- worse
+- chart
+- describe
+- grade
+- instead
+
+
+######################
+## Postponed!
 - 🟦 Booze
 - 🟦 Floors
-- 🟦 Though
 - 🟦 Direct
 - 🟦 Measure
-- 🟦 Analyze
 - 🟦 Cohesion
 - 🟦 Significant
 - 🟦 Evident

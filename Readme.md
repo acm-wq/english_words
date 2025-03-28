@@ -37,3 +37,9 @@ Welcome to the English Words Project! This project provides various categories o
 ## The story of my training
 
 - [Click](log_dialog)
+
+## 💝 Thanks to
+
+(Learn words)
+- [Anki](https://apps.ankiweb.net/)
+- [4000 Essential English Words](https://ankiweb.net/shared/info/1104981491)
