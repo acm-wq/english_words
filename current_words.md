@@ -21,6 +21,19 @@
 - describe
 - grade
 - instead
+- several
+- shape
+- solve
+- suddenly
+- suppose
+- appropriate
+- avoid
+- behave
+- calm
+- concern
+- expect
+- frequently
+- habit
 
 
 ######################

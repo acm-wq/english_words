@@ -8,6 +8,7 @@ Welcome to the English Words Project! This project provides various categories o
 
 - [Frequent words](frequently_occurring_words.md)
 - [Everyday phrases](everyday_phrases.md)
+- [Current words](current_words.md)
 
 ## Categories
 
